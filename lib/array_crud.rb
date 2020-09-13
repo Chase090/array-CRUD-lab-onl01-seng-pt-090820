@@ -1,23 +1,14 @@
-def create_an_empty_array
+ddef create_an_empty_array
   []
 end
 
 def create_an_array
-<<<<<<< HEAD
 burger = ["cheese", "camatis", "meat", "buns"]
 end
 
 def add_element_to_end_of_array(array = ["wow", "I", "am", "really", "learning"],
     element = "arrays!")
 array.push ("arrays!")  
-=======
-  ["black", "blue", "brown", "yellow"]
-end
-
-def add_element_to_end_of_array(create_an_array)
-  create_an_array = ["black", "blue", "brown", "yellow"]
-  create_an_array.push = potatoes
->>>>>>> ba8961d673930e9ea48e9aa7a33c7bb88d17d7dc
 end
 
 def add_element_to_start_of_array(array = ["I", "am", "really", "learning"],
